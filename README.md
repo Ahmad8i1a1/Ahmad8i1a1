@@ -13,7 +13,7 @@
  
 <a href="https://www.linkedin.com/in/ahmad8i1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-mashood-ul-hassaan-6149721b2/" height="30" width="40" /></a>
  
- <a href="https://stackoverflow.com/users/21262646/ahmad-bilal" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fstack-overflow-round-logo&psig=AOvVaw34gzaYIYmZi9-5T7xpHtHu&ust=1686248799011000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDcusXksf8CFQAAAAAdAAAAABAJ" alt="https://stackoverflow.com/users/21262646/ahmad-bilal" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/21262646/ahmad-bilal" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/711/325/png-transparent-stack-overflow-computer-icons-stack-exchange-logo-computer-software-economical-text-orange-stack.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
