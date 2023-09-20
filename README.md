@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Game Development**
 
-- 🌱 I’m currently learning **Devop, Blockchain ,Data Analyst etc**
+- 🌱 I’m currently learning **3D/2D Asset, SAAS ,E-commerce ,Web-Dev**
 
 - 📫 How to reach me **ahmadbilalmuhammadashraf@gmail.com**
 
