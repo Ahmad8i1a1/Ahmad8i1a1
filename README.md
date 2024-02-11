@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Game Development**
 
-- 🌱 I’m currently learning **3D/2D Asset ,Unreal Engin ,Cybersecurity **
+- 🌱 I’m currently learning **3D/2D Asset ,Unreal Engin ,Cybersecurity**
 
 - 📫 How to reach me **https://linktr.ee/ahmad_bi1a1**
 
