@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ahmad+Bilal+👋;Unity+Game+Developer;Exploring+AR+%2F+VR+%2F+MR;Always+Learning!" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">Hi 👋, I'm Ahmad Bilal</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Exploring+AR+%2F+VR+%2F+MR;Always+Learning!" alt="Typing SVG" />
+</h3>
 <p align="center">
   <a href="https://linktr.ee/ahmad_bi1a1" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
